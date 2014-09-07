@@ -27,6 +27,6 @@
     "minimist": "~1.1.0"
   },
   "bin": {
-    "stream-json-clipboard"
+    "stream-json-clipboard" : "index.js"
   }
 }
