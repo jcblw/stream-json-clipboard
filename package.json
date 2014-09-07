@@ -1,0 +1,32 @@
+{
+  "name": "stream-json-clipboard",
+  "description": "Stream a key from a json stream into your clipboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jcblw/stream-json-clipboard"
+  },
+  "keywords": [
+    "text",
+    "copy",
+    "log"
+  ],
+  "author": "Jacob Lowe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcblw/stream-json-clipboard/issues"
+  },
+  "homepage": "https://github.com/jcblw/stream-json-clipboard",
+  "dependencies": {
+    "JSONStream": "~0.9.0",
+    "string-humanize": "~1.0.0",
+    "copy-paste": "~0.3.0",
+    "minimist": "~1.1.0"
+  },
+  "bin": {
+    "stream-json-clipboard"
+  }
+}
