@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var 
 jsonStream = require( 'JSONStream' ),
 argv = require('minimist')(process.argv.slice(2)),
