@@ -1,5 +1,7 @@
 # Stream JSON Clipboard
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jcblw/stream-json-clipboard.svg)](https://greenkeeper.io/)
+
 This is a utility to stream a key from a json stream into your clipboard. 
 
 ## Install
