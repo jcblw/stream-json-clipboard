@@ -22,10 +22,10 @@
   },
   "homepage": "https://github.com/jcblw/stream-json-clipboard",
   "dependencies": {
-    "JSONStream": "~0.9.0",
+    "JSONStream": "~1.3.1",
     "string-humanize": "~1.0.0",
-    "copy-paste": "~0.3.0",
-    "minimist": "~1.1.0"
+    "copy-paste": "~1.3.0",
+    "minimist": "~1.2.0"
   },
   "bin": {
     "stream-json-clipboard" : "index.js"
